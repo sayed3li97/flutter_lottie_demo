@@ -34,7 +34,6 @@ class _MyHomePageState extends State<MyHomePage>
   late final AnimationController _likeController;
   bool isLiked = false;
   bool _likeLottieLoaded = false;
-  bool _thanksLottieLoaded = false;
 
   @override
   void initState() {
@@ -82,11 +81,6 @@ class _MyHomePageState extends State<MyHomePage>
                       'assets/animations/thanks.json', // Thanks animation
                       width: 120,
                       height: 120,
-                      onLoaded: (composition) {
-                        setState(() {
-                          _thanksLottieLoaded = true;
-                        });
-                      },
                     ),
                     const SizedBox(height: 16),
                     Text(
