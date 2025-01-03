@@ -31,6 +31,7 @@ Example:
     </td>
   </tr>
 </table>
+
 ## Getting Started
 
 To run this project:
