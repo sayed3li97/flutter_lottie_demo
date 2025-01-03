@@ -15,10 +15,22 @@ This Flutter project demonstrates the integration and usage of Lottie animations
 
 Example:
 
-![Screenshot of Loading State](screenshots/loading_state_web.png)
-![Screenshot of Liked State](screenshots/liked_state_web.png)
-![GIF of Like Animation](gifs/like_animation.gif)
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/loading_state.png" width="300" alt="Screenshot of Loading State">
+      <br>Loading State
+    </td>
+    <td align="center">
+      <img src="screenshots/liked_state.png" width="300" alt="Screenshot of Liked State">
+      <br>Liked State
+    </td>
+      <td align="center">
+      <img src="gifs/like_animation.gif" width="300" alt="GIF of Like Animation">
+      <br>Like Animation
+    </td>
+  </tr>
+</table>
 ## Getting Started
 
 To run this project:
